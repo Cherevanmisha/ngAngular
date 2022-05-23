@@ -1,0 +1,17 @@
+.container {
+  background: yellow;
+  height: 50px;
+  display: flex;
+  justify-content: center;
+  margin: 10px;
+  align-items: center;
+  justify-content: space-around;
+}
+a{
+  text-decoration: 0;
+  color: blue;
+  font-size: 30px;
+}
+.active a{
+  background-color: aqua;
+}
